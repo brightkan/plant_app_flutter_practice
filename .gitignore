@@ -226,4 +226,9 @@ fabric.properties
 
 !/gradle/wrapper/gradle-wrapper.jar
 
+
+.idea/
+ios/
+android/
+
 # End of https://www.toptal.com/developers/gitignore/api/flutter,androidstudio,dart
